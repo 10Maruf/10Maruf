@@ -109,15 +109,27 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img width="100%" src="https://via.placeholder.com/500x280/1a1a1a/ffffff?text=Project+2" alt="Project 2" />
+        <a href="https://langal.vercel.app/" target="_blank">
+          <img width="100%" src="https://via.placeholder.com/500x280/1a1a1a/ffffff?text=%E0%A6%B2%E0%A6%BE%E0%A6%99%E0%A6%B2+(Langal)" alt="Langal" />
+        </a>
       </div>
       <br/>
-      <b>🚀 Project Name 2</b><br/>
-      <sub>Short description of this awesome project goes here.</sub><br/><br/>
+      <b>🌾 লাঙল (Langal)</b><br/>
+      <sub>AI-powered agricultural platform with a Farmer Mobile App and Government Web Portal for crop recommendations, disease detection with treatment, crop planning, market insights, consultation, compliance monitoring, analytics, weather advisories, subsidy checks, and multilingual farmer support.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" />
+      <img src="https://img.shields.io/badge/Groq%20API-F55036?style=flat" />
+      <img src="https://img.shields.io/badge/OpenWeather%20API-EB6E4B?style=flat" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFCA28?style=flat&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Llama%20Vision-4A5568?style=flat" />
+      <img src="https://img.shields.io/badge/GPT--4o%20mini-412991?style=flat" />
+      <img src="https://img.shields.io/badge/Gemini%20Flash%202.0-4285F4?style=flat&logo=google&logoColor=white" />
       <br/><br/>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/10Maruf/langal" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://langal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-0EA5E9?style=flat&logo=vercel&logoColor=white" alt="Live" /></a>
     </td>
   </tr>
   <tr>
