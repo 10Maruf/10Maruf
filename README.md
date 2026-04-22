@@ -110,7 +110,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://langal.vercel.app/" target="_blank">
-          <img width="100%" src="https://via.placeholder.com/500x280/1a1a1a/ffffff?text=%E0%A6%B2%E0%A6%BE%E0%A6%99%E0%A6%B2+(Langal)" alt="Langal" />
+          <img width="100%" src="https://marufbroportfolioserver.vercel.app/api/projects/69e724f59c54db56651c5958/image" alt="Langal" />
         </a>
       </div>
       <br/>
