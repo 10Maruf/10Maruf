@@ -115,7 +115,7 @@
       </div>
       <br/>
       <b>🌾 লাঙল (Langal)</b><br/>
-      <sub>AI-powered agricultural platform with a Farmer Mobile App and Government Web Portal for crop recommendations, disease detection with treatment, crop planning, market insights, consultation, compliance monitoring, analytics, weather advisories, subsidy checks, and multilingual farmer support.</sub><br/><br/>
+      <sub>AI-powered agricultural platform with a Farmer Mobile App and a Government Portal for crop recommendations, disease diagnosis with treatment, crop planning, market insights, expert consultation, weather advisories, subsidy checks, compliance tracking, and multilingual support.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
