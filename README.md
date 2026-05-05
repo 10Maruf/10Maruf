@@ -35,7 +35,7 @@
 ## Contact and Portfolio
 
 - Portfolio: [marufbro.netlify.app](https://marufbro.netlify.app)
-- Resume: [Download CV]([https://drive.google.com/uc?export=download&id=1mjVwOPkEqj7vASZHYoMpJyBaCpa-0ca5](https://marufbroportfolioserver.vercel.app/uploads/resumes/1778017010668-mofassel_alam_maruf_cv_06-05-2026.pdf))
+- Resume: [Download CV](https://marufbroportfolioserver.vercel.app/uploads/resumes/1778017010668-mofassel_alam_maruf_cv_06-05-2026.pdf)
 - Email: [mofasselalammaruf@gmail.com](mailto:mofasselalammaruf@gmail.com)
 
 ## Connect With Me
